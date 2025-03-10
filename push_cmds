@@ -1,0 +1,12 @@
+Steps to perform push operation
+1.ls
+2.git init
+3.git status
+4.git add . // To push a specific files or all the files(optional)
+5.git status
+6.git commit -m "First commit"
+if you are new user it ask for username & gmail
+7.git config --global user.name
+8.git config --global user.gmail
+9.git remote add origin "URL_of_Repository"
+10.git push origin master
